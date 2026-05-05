@@ -1,0 +1,37 @@
+---
+title: "How Caffeine Affects the Nervous System"
+author: "Your Name"
+format: revealjs
+---
+
+## Introduction
+
+- Caffeine is a stimulant that affects the nervous system  
+- It works at the level of neurotransmitters in the brain  
+
+---
+
+## Content
+
+### Normal Function
+- Adenosine builds up → causes sleepiness  
+
+### Mechanism of Caffeine
+- Blocks adenosine receptors  
+- Prevents drowsiness signaling  
+
+### Effects on Nervous System
+- Increases neural activity  
+- Increases dopamine and norepinephrine  
+- Leads to alertness, focus, and improved mood  
+
+### Key Point
+- Caffeine does not create energy — it blocks fatigue  
+
+---
+
+## Conclusion
+
+- Caffeine alters nervous system activity at the receptor level  
+- It increases alertness by blocking adenosine  
+- It has both benefits and side effects  
