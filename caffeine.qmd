@@ -1,37 +1,84 @@
 ---
 title: "How Caffeine Affects the Nervous System"
-author: "Your Name"
+author: "Ron Roberto"
 format: revealjs
 ---
 
 ## Introduction
 
 - Caffeine is a stimulant that affects the nervous system  
-- It works at the level of neurotransmitters in the brain  
+- It works by altering neurotransmitter activity in the brain  
+
+::: notes
+Hi, my name is Ron, and today I’ll be presenting on how caffeine affects the nervous system.
+
+Caffeine is one of the most widely consumed stimulants in the world. It primarily affects the central nervous system by altering how neurotransmitters function in the brain. In this presentation, I’ll explain how caffeine works at the cellular level and how that leads to its effects on alertness and behavior.
+:::
 
 ---
 
-## Content
+## Normal Function & Mechanism
 
-### Normal Function
-- Adenosine builds up → causes sleepiness  
+### Normal Function (Adenosine)
+- Adenosine builds up throughout the day  
+- Binds to receptors → causes sleepiness  
 
 ### Mechanism of Caffeine
-- Blocks adenosine receptors  
+- Blocks **adenosine receptors**  
 - Prevents drowsiness signaling  
+- Neurons remain active  
 
-### Effects on Nervous System
-- Increases neural activity  
-- Increases dopamine and norepinephrine  
-- Leads to alertness, focus, and improved mood  
+**Key idea:** Caffeine blocks the brain’s fatigue signal  
 
-### Key Point
-- Caffeine does not create energy — it blocks fatigue  
+::: notes
+To understand caffeine, we first need to understand adenosine.
+
+Adenosine is a neurotransmitter that builds up throughout the day. When it binds to receptors in the brain, it slows down neural activity and makes us feel tired.
+
+Caffeine works by blocking these adenosine receptors. Instead of adenosine binding and signaling fatigue, caffeine occupies those receptors and prevents that signal from being sent.
+
+As a result, neurons remain active instead of slowing down. This is why caffeine doesn’t actually create energy—it simply blocks the brain’s natural fatigue signal.
+:::
+
+---
+
+## Effects on Nervous System
+
+- 🧠 Increased neural activity  
+- ⚡ Increased alertness and focus  
+- 😊 Increased dopamine and norepinephrine  
+
+### Research Support
+- Caffeine acts as an **adenosine receptor antagonist**  
+- Increases neurotransmitter release *(Nehlig, 2021)*  
+
+::: notes
+Because adenosine is blocked, brain activity increases.
+
+This leads to higher levels of neurotransmitters like dopamine and norepinephrine, which are associated with alertness, focus, and mood.
+
+As a result, people experience increased energy, improved concentration, and heightened mental performance.
+
+Research supports this mechanism. A study by Nehlig in 2021 found that caffeine acts as an adenosine receptor antagonist and increases neurotransmitter activity in the brain, which explains its stimulating effects on the nervous system.
+:::
 
 ---
 
 ## Conclusion
 
 - Caffeine alters nervous system activity at the receptor level  
-- It increases alertness by blocking adenosine  
-- It has both benefits and side effects  
+- Increases alertness by blocking adenosine  
+- Supported by research on neurotransmitter activity  
+
+### References
+Nehlig, A. (2021). *The neurophysiology of caffeine as a central nervous system stimulant*. Nutrients, 13(6), 1863. https://pmc.ncbi.nlm.nih.gov/articles/PMC8202818/
+
+::: notes
+In conclusion, caffeine affects the nervous system at the receptor level by blocking adenosine.
+
+This prevents feelings of drowsiness and leads to increased neural activity and alertness.
+
+Overall, caffeine’s effects can be explained by its ability to interfere with normal neurotransmitter signaling, which is why it is such an effective stimulant.
+
+Thank you.
+:::
